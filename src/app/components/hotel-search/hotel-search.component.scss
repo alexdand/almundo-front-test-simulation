@@ -1,0 +1,15 @@
+div {
+  margin: 20px;
+
+  input {
+    display: block;
+    margin: 0 auto;
+    border: 0;
+    border-bottom: 1px solid grey;
+    width: 400px;
+    font-size: 1.5em;
+  }
+  input:focus {
+    outline: none;
+  }
+}
